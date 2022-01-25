@@ -1,9 +1,9 @@
 # Imersao React da Alura 👋
 
 
-### Ops, olá! eu sou o Michael 
+### Fala aê! 
 
-- 🔭 Objetivo de conhecer os fundamentos básicos do React. 👨‍💻
+- 🔭 Objetivo conhecer os fundamentos básicos do React. 👨‍💻
 - 🌱 Venho estudando, HTML5, CSS3, Javacript e com essa oportunidade estarei iniciando meus estudos também no React :atom_symbol: .
 - 📫 Contate-me no email: mackellsud@gmail.com
 - ⚡ Eletrizando os neurônios para mergulhar nessa imersão e aprender um pouco sobre React.
